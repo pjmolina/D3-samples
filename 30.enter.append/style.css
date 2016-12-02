@@ -1,0 +1,10 @@
+svg	{
+	width:500px;
+	height:300px;
+}
+
+svg rect {
+	fill: #20cc00;
+	stroke:black;
+	stroke-width:2px;
+}
